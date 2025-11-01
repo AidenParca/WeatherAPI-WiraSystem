@@ -1,0 +1,27 @@
+Thank you for taking the time to complete this technical assessment. The test consists of two parts:
+ 1. A coding exercise
+ 2. A few technical questions
+ Please submit your work as a link to a public GitHub repository for the recruiter to review.
+ If you prefer not to make your code public, feel free to reach out so we can arrange an alternative.
+ Be sure to include a markdown file with your answers to the technical questions in the same repository.
+ 1. Coding Exercise
+ Create a .NET Core Web API that takes a city name as input and returns the following information:- Temperature (in Celsius)- Humidity (in %)- Wind Speed (in meters per second)- Air Quality Index (AQI)- Major pollutants (e.g., PM2.5, CO, NO , etc.)- Latitude and Longitude
+ To accomplish this, please use the following service:
+ OpenWeatherMap API
+ (Provides weather and air pollution data)
+ You will need to sign up and obtain a free API key.
+ Project Requirements
+ Please implement the following user story:
+ As a user running the application,
+ I want to input a city name
+ So that I can view the current environmental conditions of that city
+ Acceptance Criteria:- For a known city like "Tehran", valid information should be returned.- The output should include:- Temperature- Humidity- Wind Speed- Air Quality Index (AQI)- Major pollutants- Geographical coordinates (Latitude/Longitude)
+ Additional Notes:- Your code should compile and run in one step.- You may use any libraries or frameworks you prefer.- Code should be clean and follow Clean Code principles.- At least one unit test must be included.
+ 2. Technical Questions
+Please answer the following questions in a file named Answers to technical questions.md:- How much time did you spend on this task?
+ If you had more time, what improvements or additions would you make?- What is the most useful feature recently added to your favorite programming language?
+ Please include a code snippet to demonstrate how you use it.- How do you identify and diagnose a performance issue in a production environment?
+ Have you done this before?- What’s the last technical book you read or technical conference you attended?
+ What did you learn from it?- What’s your opinion about this technical test?- Please describe yourself using JSON format.
+ Thank you again for your time — we look forward to your response!
+ The WiraSystem Tech Team

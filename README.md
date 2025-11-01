@@ -128,7 +128,7 @@ WatherApi/
 
 ## Technologies Used
 
-- **.NET 10.0** - Framework
+- **.NET 9.0** - Framework
 - **ASP.NET Core Web API** - API framework
 - **HttpClient** - HTTP client for external API calls
 - **Swagger/OpenAPI** - API documentation

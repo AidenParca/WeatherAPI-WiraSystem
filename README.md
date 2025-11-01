@@ -1,5 +1,5 @@
 # Weather API
-
+![alt text](https://github.com/AidenParca/WeatherAPI-WiraSystem/blob/main/Screenshot%202025-11-01%20172041.png)
 A .NET Core Web API application that provides weather and air quality information for cities using the OpenWeatherMap API.
 
 ## Features
